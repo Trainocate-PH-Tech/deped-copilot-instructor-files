@@ -1,0 +1,26 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Vim swap, backup, and undo files
+*.swp
+*.swo
+*.swn
+.*.sw?
+*~
+*.bak
+*.tmp
+.netrwhist
+.vim/
+.viminfo
+.vimundo/
+
+# Office temporary and lock files
+~$*
+*.tmp
+
+# Local editor/project settings
+.vscode/
+.idea/
+
