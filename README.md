@@ -3,7 +3,7 @@
 ## Module 2: Admin and Compliance
 
 **Files**
-- (Grade 8 - Amihan TLE Class Record.xlsx)[https://gkid-my.sharepoint.com/:x:/g/personal/mikaella_navarro_trainocate_com/IQBv0kyxkAmoRbi9XchqFrYmAU-LIX6awZ4IJt_qZu3LY6s?e=RJvi1Y]
+- [Grade 8 - Amihan TLE Class Record.xlsx](https://gkid-my.sharepoint.com/:x:/g/personal/mikaella_navarro_trainocate_com/IQBv0kyxkAmoRbi9XchqFrYmAU-LIX6awZ4IJt_qZu3LY6s?e=RJvi1Y)
 
 ### Prompt:
 
